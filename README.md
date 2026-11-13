@@ -219,4 +219,4 @@ Asynx Planetarium is offered as a complete free version, providing users with al
 Unlock the mysteries of the universe today! **Download Asynx Planetarium free now and start your astronomical adventure!**
 
 ---
-**Last updated:** 2026-11-13 16:02:08 UTC
+**Last updated:** 2026-11-13 22:26:45 UTC
